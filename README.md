@@ -18,7 +18,7 @@ Please follow the instructions below to set up the Ownership Scrapper project on
 2. Change the current working directory to the location where you want to clone the repository.
 3. Execute the following command to clone the repository:
 ```shell
-git clone https://github.com/your-username/ownership-scrapper.git
+git clone git@github.com:Arpita-ch95/Ownership-Scrapper.git
 ```
 4. Once the cloning process is complete, navigate to the project's directory:
 ```shell
